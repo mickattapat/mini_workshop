@@ -1,9 +1,10 @@
 # mini_workshop
+learn goroutine and channel
 # countdown server
  - go to server and client 
  - go run . (your server and client)
  - let's play :)
- # download photo
+ # download photo 
  - go run . (on your terminal)
  - let's play :)
 
