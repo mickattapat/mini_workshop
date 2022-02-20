@@ -1,7 +1,4 @@
 # mini_workshop
-mini_workshop
-- go mod init <your directory>
-- go mod tidy
 # countdown server
  - go to server and client 
  - go run . (your server and client)
