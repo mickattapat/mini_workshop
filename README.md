@@ -7,6 +7,4 @@ learn goroutine and channel
  # download photo 
  - go run .
  - let's play :)
-
-
- - thx photo by jsonplaceholder
+ - photo by jsonplaceholder
